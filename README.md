@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohman</h1>
-<h3 align="center">Embedded and IoT enthusiasts.</h3>
+<h3 align="center">IoT, Embedded, and Intelligent System enthusiasts.</h3>
 
 - 📫 How to reach me **rohmxx@gmail.com**
 
