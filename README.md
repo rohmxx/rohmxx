@@ -17,7 +17,7 @@
 <img src="https://static-00.iconduck.com/assets.00/espressif-icon-2048x2048-z4owwfhw.png" alt="STM32" width="40" height="40"/> </a> <a href="https://www.st.com/en/microcontrollers-microprocessors/stm32-32-bit-arm-cortex-mcus.html" target="_blank" rel="noreferrer"> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
-<img src="https://logodix.com/logo/1656118.jpg" alt="ROS" width="40" height="40"/> </a> <a href="https://www.ros.org" target="_blank" rel="noreferrer"> 
+<img src="https://logodix.com/logo/1656118.jpg" alt="ROS" height="40"/> </a> <a href="https://www.ros.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
