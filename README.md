@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rohman</h1>
-<h3 align="center">Robotics, Embedded, and Intelligent System enthusiasts.</h3>
+<h3 align="center">Robotics, Intelligent, and Embedded System enthusiasts.</h3>
 - 📫 How to reach me 
 <a href="mailto:rohmxx@gmail.com.com"> <strong> rohmxx@gmail.com <strong> </a>
 <h3 align="left">Connect with me:</h3>
