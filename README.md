@@ -16,6 +16,7 @@
 <img src="https://wiki.st.com/stm32mcu/nsfr_img_auth.php/4/4e/STM32.png" alt="STM32" width="40" height="40"/> </a> 
 <img src="https://static-00.iconduck.com/assets.00/espressif-icon-2048x2048-z4owwfhw.png" alt="ESP-IDF" width="40" height="40"/> </a> 
 <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/MicroPython_new_logo.jpg" alt="MicroPython" width="40" height="40"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <img src="https://logodix.com/logo/1656118.jpg" alt="ROS" height="40"/> </a> 
 <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> 
