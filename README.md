@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rohman</h1>
 <h3 align="center">Robotics, Embedded, and Intelligent System enthusiasts.</h3>
-- 📫 How to reach me **rohmxx@gmail.com**
+- 📫 How to reach me <strong>rohmxx@gmail.com<strong>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
    <a href="https://linkedin.com/in/rohmxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rohmxx" height="30" width="40" /></a>
