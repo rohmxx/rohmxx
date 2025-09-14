@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Rohman and I'm a Roboticist and a Student, from Indonesia.</h2>
+<h2 align="left">Hi 👋! My name is Rohman, Robotics and Embedded System Enthusiast from Indonesia.</h2>
 
 ###
 
