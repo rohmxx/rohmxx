@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! I'm Rohman, Robotics and Embedded System Enthusiast from Indonesia.</h2>
+<h2 align="left">Hi!👋 I'm Rohman, Robotics and Embedded System Enthusiast from Indonesia.</h2>
 
 ###
 
